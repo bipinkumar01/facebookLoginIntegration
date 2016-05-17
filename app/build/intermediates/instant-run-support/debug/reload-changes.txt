@@ -1,0 +1,3 @@
+CHANGED,C:\Users\admin\Desktop\Project\FagmentExample\FacebookImplement\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\admin\Desktop\Project\FagmentExample\FacebookImplement\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\bipin\com\facebookimplement\MainActivity$5$override.class
+CHANGED,C:\Users\admin\Desktop\Project\FagmentExample\FacebookImplement\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\bipin\com\facebookimplement\MainActivity$override.class

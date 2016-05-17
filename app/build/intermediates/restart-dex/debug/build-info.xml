@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="24262484725090" >
+
+    <task
+        name="javac"
+        duration="576" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="133" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="C:\Users\admin\Desktop\Project\FagmentExample\FacebookImplement\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="24262484725090" >
+        <artifact
+            location="C:\Users\admin\Desktop\Project\FagmentExample\FacebookImplement\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
